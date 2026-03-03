@@ -33,6 +33,9 @@ Ciclo de Execução: PQD-R2 - Sprint Pagamento Boleto
 
 Status Final: Concluído (Sucesso em todos os cenários).
 
+### Certificação de Módulo Concluída. 
+![alt text](image.png)
+
 
 
 
